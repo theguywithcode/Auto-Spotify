@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/theguywithcode/code_spotify">
+  <a href="https://github.com/theguywithcode/Auto-Spotify.git">
     <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     A Simple Script that will help you to Play /  Change Songs with just your Voice 
     <br />
-    <a href="https://github.com/theguywithcode/code_spotify"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/theguywithcode/Auto-Spotify.git"><strong>Explore the docs »</strong></a>
 </p>
 
 
@@ -141,4 +141,4 @@ Run the follwoing command in your terminal
 
 Your Name - [@Theguywithcode](https://twitter.com/Theguywithcode) - help@codeguy.me
 
-Project Link: [Auto-Spotify](https://github.com/theguywithcode/code_spotify)
+Project Link: [Auto-Spotify](https://github.com/theguywithcode/Auto-Spotify.git)
